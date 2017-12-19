@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*是页面内容不重叠*/
+body{
+    padding-top: 70px;
+}

@@ -1,0 +1,4 @@
+ /*取消nav中滚动条*/
+.shut_scroll_bar{
+    overflow:hidden;
+}
